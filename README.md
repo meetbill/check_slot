@@ -8,6 +8,9 @@
 <!-- vim-markdown-toc -->
 
 ## 使用
+Dependency:
+> * python 2.x
+
 Usage:
 > * check_slot.py calculate_slot 'key_name'      # 计算某个 key 的 slot
 > * check_slot.py gen_16384key  'prefix=qatest_'  # 生成以 prefix 开头的 16384 个槽位的 key 名字的文本文件
